@@ -1,8 +1,9 @@
 # minecraft-plugins
-Each plugin is unique.
+Each plugin is unique and designed for Spigot 1.15.12
+
 To install:
   1. Download the plugin.jar file
   2. Place plugin in plugins directory
-  3. type bukkit:reload into your console
+  3. restart server
  
-Note: You do not need to close and reopen your server. You can replace these files while the server is running.
+Note: You must completely restart your server to avoid bugs. Typing bukkit:restart can corrupt your spigot file.
