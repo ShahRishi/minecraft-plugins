@@ -1,5 +1,5 @@
 # minecraft-plugins
-Each plugin is unique and designed for Spigot 1.15.12
+Each plugin is unique and designed for Spigot 1.15.2
 
 To install:
   1. Download the plugin.jar file
